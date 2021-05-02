@@ -1,0 +1,2 @@
+# ci-rizky
+Codeigniter Rizky
